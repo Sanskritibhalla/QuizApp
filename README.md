@@ -6,7 +6,8 @@ Welcome to the backend of the Spring Boot Quiz App! This system provides backend
 Functional Features
 1. Quiz Management: Seamlessly create, retrieve, update, and delete quizzes.
 2. Question Management: Effortlessly add, modify, and remove questions within quizzes.
-3. Search Capability: Easily explore questions based on categories.
+3. Search Capability: Easily explore questions based on categories and difficulty levels.
+4. User Responses: Capture and evaluate user responses to quiz questions.
 
 Technological Stack
 - Spring Boot: The core framework driving the backend development.
